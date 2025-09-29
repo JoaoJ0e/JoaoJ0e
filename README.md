@@ -7,9 +7,12 @@ Olá! Sou um aprendiz de dev começando sua jornada de escrever coisas no comput
 - 💻 Se formando em ADS no SENAI <br>
 - 🌐 Estagiando na Trier Sistemas
 
+## Backend
+[![back](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker)](https://skillicons.dev)<br><br>
+## Ferramentas
+[![tools](https://skillicons.dev/icons?i=eclipse,idea,vscode,github,gitlab,git,postman)](https://skillicons.dev)<br><br>
 
-## ⌨️ Aprendendo a codar em:
-[![Currently learning:](https://skillicons.dev/icons?i=java,spring,html,css,ts,python)](https://skillicons.dev)<br><br>
-
-## 🛠️ Aprendendo a usar:
-[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,angular,postgresql,mysql,github,git,postman)](https://skillicons.dev)<br><br>
+#### Frontend
+[![front](https://skillicons.dev/icons?i=angular,html,css,ts,bootstrap)](https://skillicons.dev)<br><br>
+#### Diversos
+[![misc](https://skillicons.dev/icons?i=bash,cypress,obsidian,vim)](https://skillicons.dev)<br><br>
