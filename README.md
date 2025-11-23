@@ -4,7 +4,7 @@
 
 Olá! Sou um aprendiz de dev começando sua jornada de escrever coisas no computador para resolver problemas.
 
-- 💻 Se formando em ADS no SENAI <br>
+- 💻 Se formando em ADS no UniSENAI <br>
 - 🌐 Desenvolvedor Backend na Attus
 
 ## Backend
