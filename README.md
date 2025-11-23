@@ -5,7 +5,7 @@
 Olá! Sou um aprendiz de dev começando sua jornada de escrever coisas no computador para resolver problemas.
 
 - 💻 Se formando em ADS no SENAI <br>
-- 🌐 Estagiando na Trier Sistemas
+- 🌐 Desenvolvedor Backend na Attus
 
 ## Backend
 [![back](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker)](https://skillicons.dev)<br><br>
